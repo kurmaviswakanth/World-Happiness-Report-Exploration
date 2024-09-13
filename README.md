@@ -2,6 +2,8 @@
 
 This repository contains an exploration of the **World Happiness Report**, where data visualizations are created using **Tableau** to explore various metrics affecting global happiness. 
 
+![WH_R](https://github.com/kurmaviswakanth/World-Happiness-Report-Exploration/blob/main/WH_R_image.jpg)
+
 ## Overview
 
 The **World Happiness Report** is an annual report that measures and ranks the happiness levels of countries around the world. It focuses on key factors such as economic conditions, social support, health, and more to evaluate a nation’s well-being.
